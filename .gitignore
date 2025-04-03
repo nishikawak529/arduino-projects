@@ -1,0 +1,23 @@
+# ビルド成果物
+**/build/
+**/*.bin
+**/*.elf
+**/*.hex
+**/*.map
+**/*.uf2
+**/*.o
+**/*.d
+**/*.a
+
+# キャッシュ・ログ・一時ファイル
+.cache/
+*.log
+*.tmp
+*.swp
+
+# VSCode系
+.vscode/
+**/.vscode/
+
+# Arduino IDEの出力系
+ArduinoOutput/
