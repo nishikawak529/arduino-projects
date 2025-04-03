@@ -1,0 +1,17 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\cores\\rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\variants\\rpipicow"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\VStest\\build\\sketch\\VStest.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

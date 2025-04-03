@@ -1,0 +1,192 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\cores\\rp2040"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\variants\\rpipicow"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "WiFi.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "lwIP_CYW43.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_CYW43\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "LwipIntfDev.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_Ethernet\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "SPI.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\SPI\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "Updater.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Updater\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "MD5Builder.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\MD5Builder\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "Wire.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Wire\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "MPU6050_light.h",
+    "Includepath": "C:\\Users\\nishi\\Documents\\Arduino\\libraries\\MPU6050_light\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Arduino\\ArduinoOutput\\sketch\\MPU6050Test.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\BearSSLHelpers.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\CertStoreBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiClass.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiClient.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiClientSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiMulti.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiNTP.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiServer.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiServerSecureBearSSL.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\WiFiUdp.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\WiFi\\src\\dhcpserver\\dhcpserver.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_CYW43\\src\\lwIP_CYW43.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_CYW43\\src\\utility\\CYW43shim.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_Ethernet\\src\\LwipEthernet.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_Ethernet\\src\\LwipIntf.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\lwIP_Ethernet\\src\\LwipIntfCB.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\SPI\\src\\SPI.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "LittleFS.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\LittleFS\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "PicoOTA.h",
+    "Includepath": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\PicoOTA\\src"
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Updater\\src\\Updater.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\MD5Builder\\src\\MD5Builder.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\Wire\\src\\Wire.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\Documents\\Arduino\\libraries\\MPU6050_light\\src\\MPU6050_light.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\LittleFS\\src\\LittleFS.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\LittleFS\\src\\lfs.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\LittleFS\\src\\lfs_util.c",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\nishi\\AppData\\Local\\Arduino15\\packages\\rp2040\\hardware\\rp2040\\4.4.4\\libraries\\PicoOTA\\src\\PicoOTA.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]

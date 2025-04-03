@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Arduino-RP2040",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/nishi/AppData/Local/Arduino15/packages/rp2040/hardware/rp2040/4.4.4/**"
+            ],
+            "compilerPath": "C:/Users/nishi/AppData/Local/Arduino15/packages/rp2040/tools/pqt-gcc/4.0.1-8ec9d6f/bin/arm-none-eabi-g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
