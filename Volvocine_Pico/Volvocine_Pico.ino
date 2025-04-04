@@ -6,11 +6,11 @@
 #include "agent_config.h"
 
 // WiFi設定
-const char* ssid = "Potato6";
-const char* password = "50lanumtu6";
+const char* ssid = "Buffalo-G-4510";
+const char* password = "33354682";
 
 // UDP設定
-IPAddress serverIP(192, 168, 1, 43);
+IPAddress serverIP(192, 168, 13, 3);
 unsigned int serverPort = 5000;
 WiFiUDP udp;
 
